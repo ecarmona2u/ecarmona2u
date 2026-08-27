@@ -1,12 +1,12 @@
-## Greetings! 😸
+## Hello everynyan:3 
 
 <img alt="Literally me" src="/cute-cat.gif" align="right"/>
 
-#### 👋🐈 Heya! I'm Acci :3 Here's some stuff about me:
+#### 👋🐈 Heyaaa! I'm Acci and here's some info about me:
 
-- 📚 Studying Software Engineering at Universidad de Colima.
-- 💻 Currently learning Java & relearning Python lol.
-- 📓 Latest/Working-on project: **[GeekPoint](https://github.com/ZaekoRam/GeekPoint)**: Multi-Location POS System.
+- 2nd year Software Engineering student @ Universidad de Colima.
+- Currently learning Java & relearning Python lol.
+- Latest/Working-on project: **[GeekPoint](https://github.com/ZaekoRam/GeekPoint)**: Multi-Location POS System.
 
 #### 🛠 Tech Stack:
 
@@ -19,4 +19,4 @@
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
 ![Bash](https://img.shields.io/badge/bash-%2312101.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
 
-💬 Want to reach me? Message me on **[Discord](https://discord.com/users/889587632907092078)** or **[Telegram](https://t.me/accithecat)**! (I'm way more active on Telegram)
+Want to reach me? Message me on **[Discord](https://discord.com/users/889587632907092078)** or **[Telegram](https://t.me/accithecat)**! (I'm way more active on Telegram)
