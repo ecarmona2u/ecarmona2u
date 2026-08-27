@@ -5,7 +5,7 @@
 #### 👋🐈 Heya! I'm Acci :3 Here's some stuff about me:
 
 - 📚 Studying Software Engineering at Universidad de Colima.
-- 💻 Currently learning Java, HTML, PHP, Python & Coding-related AI usage.
+- 💻 Currently learning Java & relearning Python lol.
 - 📓 Latest/Working-on project: **[GeekPoint](https://github.com/ZaekoRam/GeekPoint)**: Multi-Location POS System.
 
 #### 🛠 Tech Stack:
