@@ -6,7 +6,7 @@
 
 - 📚 Studying Software Engineering at Universidad de Colima.
 - 💻 Currently learning Java, HTML, PHP, Python & Coding-related AI usage.
-- 📓 Recent/Actual proyect: **[Lumina](https://github.com/diegoa-mg/Lumina)**: University-themed academic website.
+- 📓 Latest/Working-on project: **[GeekPoint](https://github.com/ZaekoRam/GeekPoint)**: Multi-Location POS System.
 
 #### 🛠 Tech Stack:
 
